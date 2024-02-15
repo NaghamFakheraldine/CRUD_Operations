@@ -1,0 +1,84 @@
+﻿@page
+@using CRUD_Project.Models;
+@model CRUD_Project.Pages.Operations.editModel
+
+@{
+    ViewData["Title"] = "Edit";
+    ViewData["LoginStatus"] = "Logout";
+}
+
+<h1>Edit</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                @if (!string.IsNullOrEmpty(Model.User.ImageFileName))
+                {
+                    <img asp-for="User.ImageFileName" src="@Url.Content("/UserImages/" + Model.User.ImageFileName)" width="100" alt="User Image" />
+                }
+            </div><br />
+            <div class="form-group">
+                <label asp-for="User.ImageFile" class="control-label">Choose New Image</label>
+                <input type="file" asp-for="User.ImageFile" class="form-control" />
+                <span asp-validation-for="User.ImageFile" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <label asp-for="User.first_name" class="control-label"></label>
+                <input asp-for="User.first_name" class="form-control" />
+                <span asp-validation-for="User.first_name" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <label asp-for="User.last_name" class="control-label"></label>
+                <input asp-for="User.last_name" class="form-control" />
+                <span asp-validation-for="User.last_name" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <label asp-for="User.date_of_birth" class="control-label"></label>
+                <input asp-for="User.date_of_birth" class="form-control" />
+                <span asp-validation-for="User.date_of_birth" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <label asp-for="User.gender" class="control-label"></label>
+                <select asp-for="User.gender" asp-items="Html.GetEnumSelectList<Gender>()" class="form-control">
+                    <option selected="selected" value="">Please select</option>
+                </select>
+                <span asp-validation-for="User.gender" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <label asp-for="User.country" class="control-label"></label>
+                <input asp-for="User.country" class="form-control" />
+                <span asp-validation-for="User.country" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <label asp-for="User.phone_number" class="control-label"></label>
+                <input asp-for="User.phone_number" class="form-control" />
+                <span asp-validation-for="User.phone_number" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <label asp-for="User.email" class="control-label"></label>
+                <input asp-for="User.email" class="form-control" />
+                <span asp-validation-for="User.email" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <label asp-for="User.role" class="control-label"></label>
+                <select asp-for="User.role" asp-items="Html.GetEnumSelectList<Role>()" class="form-control">
+                    <option selected="selected" value="">Please select</option>
+                </select>
+                <span asp-validation-for="User.gender" class="text-danger"></span>
+            </div><br />
+            <input type="hidden" asp-for="User.Id" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-page="/Operations/Index" asp-route-userID="@Model.userID" class="btn btn-primary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

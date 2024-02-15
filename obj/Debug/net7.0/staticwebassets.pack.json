@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CRUD_Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CRUD_Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240214153659894.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240214153659894.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240214160012648.jpeg",
+      "PackagePath": "staticwebassets\\UserImages\\20240214160012648.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240214165641303.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240214165641303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240214165748967.jpeg",
+      "PackagePath": "staticwebassets\\UserImages\\20240214165748967.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240214223358091.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240214223358091.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240214223506955.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240214223506955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215000135568.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215000135568.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215002647548.jpeg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215002647548.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215003001825.jpeg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215003001825.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215003226036.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215003226036.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215003520112.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215003520112.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215003644171.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215003644171.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215004828772.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215004828772.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215005034627.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215005034627.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215005140635.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215005140635.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215010846117.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215010846117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215010938502.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215010938502.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215011105617.jpeg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215011105617.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215011307701.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215011307701.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215011442935.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215011442935.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215012011265.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215012011265.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215012958260.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215012958260.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215013113542.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215013113542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215013359657.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215013359657.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215013726565.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215013726565.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\UserImages\\20240215025525419.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\20240215025525419.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\UserImages\\20240214141717329.jpg",
+      "PackagePath": "staticwebassets\\lib\\UserImages\\20240214141717329.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\UserImages\\20240214141902602.jpeg",
+      "PackagePath": "staticwebassets\\lib\\UserImages\\20240214141902602.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nagham\\source\\repos\\CRUD_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CRUD_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CRUD_Project.props",
+      "PackagePath": "build\\CRUD_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUD_Project.props",
+      "PackagePath": "buildMultiTargeting\\CRUD_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CRUD_Project.props",
+      "PackagePath": "buildTransitive\\CRUD_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

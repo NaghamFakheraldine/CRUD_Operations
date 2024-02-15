@@ -1,0 +1,110 @@
+﻿@page
+@model CRUD_Project.Pages.Operations.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    ViewData["LoginStatus"] = "Logout";
+}
+
+<h3>@Model.username</h3>
+<h1></h1>
+<p>
+    @if (Model.role == "User")
+    {
+        <a asp-page="#" style="color: grey;">Create New</a>
+    }
+    else
+    {
+       <a asp-page="/Operations/create" asp-route-userID="@Model.userID">Create New User</a>
+    }
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].ImageFile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].first_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].last_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].date_of_birth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].country)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].phone_number)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].role)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.User)
+        {
+            <tr>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.ImageFileName))
+                    {
+                        <img src="/UserImages/@item.ImageFileName" alt="User Image" width="80" class="img">
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.first_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.last_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date_of_birth)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.country)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.phone_number)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.role)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.email)
+                </td>
+                <td>
+                    @if (Model.role == "User")
+                    {
+                        <a asp-page="#" style="color: grey;">Edit</a>
+                        <a asp-page="/Operations/Details" asp-route-id="@item.Id" asp-route-userID="@Model.userID">Details</a>
+                        <a asp-page="#" style="color: grey;">Delete</a>
+                    }
+                    else
+                    {
+                        <a asp-page="/Operations/Edit" asp-route-id="@item.Id" asp-route-userID="@Model.userID">Edit</a>
+                        <a asp-page="/Operations/Details" asp-route-id="@item.Id" asp-route-userID="@Model.userID">Details</a>
+                        <a asp-page="/Operations/Delete" asp-route-id="@item.Id" asp-route-userID="@Model.userID">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
