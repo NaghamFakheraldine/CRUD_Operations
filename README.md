@@ -1,30 +1,42 @@
-# CRUD_Operations
+# CRUD Operations
 
 ## Overview
-This ASP.NET Core Razor Pages application is designed as a web-based CRUD (Create, Read, Update, Delete) system for managing user information. The application allows administrators and end-users to interact with user data, providing functionalities such as adding, editing, and deleting user records. The application ensures data integrity by preventing the creation of duplicate user records based on unique email addresses.
+
+CRUD Operations is an ASP.NET Core Razor Pages application designed to provide a web-based CRUD (Create, Read, Update, Delete) system for efficient management of user information. This application caters to both administrators and end-users, offering seamless functionalities for adding, editing, and deleting user records while ensuring data integrity.
 
 ## Features
-1. **User Information:**
- - The application manages the following user information:
-        - First Name
-        - Last Name
-        - Date of Birth (DOB)
-        - Gender
-        - Country
-        - Phone Number
-        - Email (unique)
-        - Identity Photo
-2. **Database Structure:** The application is built on a well-designed database structure to efficiently store and retrieve user data.
-3. **User Interface:** Users can input and submit the above-mentioned data through a user-friendly interface.
-4. **CRUD Operations:** The application supports CRUD operations for managing user data.
-        - **Create:** Users can add new records with unique email addresses.
-        - **Read:** The interface displays all entered user data in a table, including identity photos.
-        - **Update:** Users can edit existing user records.
-        - **Delete:** Users can remove unnecessary records.
-5. **Data Display:** The application features a functionality to display all entered user data on the same interface in a table format, including the display of identity photos.
-6. **No Duplicate Records:** The application enforces uniqueness based on email addresses to prevent the creation of duplicate user records.
-7. **Authentication:**
- - The application has a login page with two roles:
-        - **Admins:** Have full access to CRUD operations.
-        - **End Users:** Can only view user data without the ability to modify or delete records.
 
+1. **User Information:**
+   - The application manages the following user details:
+      - First Name
+      - Last Name
+      - Date of Birth (DOB)
+      - Gender
+      - Country
+      - Phone Number
+      - Email (unique)
+      - Identity Photo
+
+2. **Database Structure:**
+   - CRUD Operations is built on a well-designed database structure, ensuring optimal storage and retrieval of user data.
+
+3. **User Interface:**
+   - The application boasts an intuitive user interface, enabling users to effortlessly input and submit user information.
+
+4. **CRUD Operations:**
+   - This application supports a complete set of CRUD operations for managing user data:
+      - **Create:** Add new records with unique email addresses.
+      - **Read:** View all entered user data, including identity photos, in a structured table format.
+      - **Update:** Modify existing user records with ease.
+      - **Delete:** Remove unnecessary records through a simple operation.
+
+5. **Data Display:**
+   - User data is elegantly presented within the application, including a comprehensive table view showcasing identity photos.
+
+6. **No Duplicate Records:**
+   - The application enforces data integrity by preventing the creation of duplicate user records based on email addresses.
+
+7. **Authentication:**
+   - A secure login page is provided with two distinct roles:
+      - **Admins:** Enjoy full access to CRUD operations, ensuring efficient user management.
+      - **End Users:** Have read-only access, allowing them to view user data without the ability to modify or delete records.
