@@ -35,8 +35,15 @@ CRUD Operations is an ASP.NET Core Razor Pages application designed to provide a
 
 6. **No Duplicate Records:**
    - The application enforces data integrity by preventing the creation of duplicate user records based on email addresses.
-
+   - 
 7. **Authentication:**
    - A secure login page is provided with two distinct roles:
       - **Admins:** Enjoy full access to CRUD operations, ensuring efficient user management.
       - **End Users:** Have read-only access, allowing them to view user data without the ability to modify or delete records.
+## Login Credentials:
+- **Admin:**
+-    Username: Nagham
+-    Password: Naghamfakheraldine2002@gmail.com
+- **End User:**
+-    Username: Rola
+-    Password: Halimfakheraldine@gmail.com
