@@ -42,8 +42,8 @@ CRUD Operations is an ASP.NET Core Razor Pages application designed to provide a
       - **End Users:** Have read-only access, allowing them to view user data without the ability to modify or delete records.
 ## Login Credentials:
 - **Admin:**
--    Username: Nagham
--    Password: Naghamfakheraldine2002@gmail.com
+   - Username: Nagham
+   - Password: Naghamfakheraldine2002@gmail.com
 - **End User:**
--    Username: Rola
--    Password: Halimfakheraldine@gmail.com
+   - Username: Rola
+   - Password: Halimfakheraldine@gmail.com
